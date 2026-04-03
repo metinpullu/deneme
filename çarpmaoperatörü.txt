@@ -1,0 +1,7 @@
+def çarpma():
+	a=int(input("bir sayı giriniz"))
+	b=int(input("bir sayı giriniz"))
+	c=a*b
+	print(c)
+if __name__ == '__main__':
+	çarpma()
